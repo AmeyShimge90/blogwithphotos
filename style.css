@@ -1,0 +1,14 @@
+.image-section{
+	display: flex;
+	justify-content: space-centre;
+}
+
+.section-style{
+	margin-right: 25px;
+	margin-left: 25px;
+	background-color: white;
+}
+
+body{
+text-align: center;
+}
